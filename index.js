@@ -1,7 +1,7 @@
 import { Player } from "./utils/player"
 
 let player1 = new Player(
-    "Jacques",
+    "Jahiem",
     {
         hp:100,
         mp:10,
